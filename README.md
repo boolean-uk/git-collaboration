@@ -95,10 +95,10 @@ Imagine it is a fresh new day, and you have a new person to pair with: Ada Lovel
 
 We want to pick up from where we left off, but without interfering with Alice's repository. To do this, we create a new repository with the same code.
 
-Person on the right, on your computer:
+Either one of you, on your computer:
 
 * Create a new repository on Github called 'introductions-2'
-* Change your local repository remote to point at your new 'introductions-2' repository
+* Change your local repository remote to point to your new 'introductions-2' repository
 * Write a new introduction to Ada
 * Stage, commit and push your changes
 
