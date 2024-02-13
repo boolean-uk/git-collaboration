@@ -91,6 +91,18 @@ user.email edward@boolean.co.uk
 
 ## Exercise 7
 
+Using git involves learning a lot of strange commands with weird names.
+
+How can we learn about commands like this? List some techniques:
+
+*
+*
+
+Getting good at finding out information like this will help you become a better software engineer. Each additional technique you learn might save you days or weeks of time in the long run.
+
+## EXTENSION (Optional)
+This one will require some research on your part. Don't worry if you don't complete it, this is an opportunity to practice looking things up and experimenting!
+
 Imagine it is a fresh new day, and you have a new person to pair with: Ada Lovelace.
 
 We want to pick up from where we left off, but without interfering with Alice's repository. To do this, we create a new repository with the same code.
@@ -103,14 +115,3 @@ Either one of you, on your computer:
 * Stage, commit and push your changes
 
 Ada's introduction should now be on Github!
-
-## Exercise 8
-
-Using git involves learning a lot of strange commands with weird names.
-
-How can we learn about commands like this? List some techniques:
-
-*
-*
-
-Getting good at finding out information like this will help you become a better software engineer. Each additional technique you learn might save you days or weeks of time in the long run.
